@@ -1,1 +1,1 @@
-## Basic API Oauth Authentication using Laravel Passport
+## Basic API Oauth 2.0 Authentication using Laravel Passport
